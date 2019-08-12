@@ -54,15 +54,15 @@ medium: medium
 email: skarnd93@gmail.com
 
 authors:
-    johndoe:
+    hiyoung:
         name: hiyoung
         bio: 삽질장인
         external-image: false
         picture: assets/images/me.jpg
         # twitter: johndoe
-    jamesfoster:
+    Ra-Eh:
         name: Ra-Eh
-        bio: !
+        bio: SOCKSPLZ!
         external-image: false
         picture: assets/images/itsme.jpg
         # twitter: jamesfoster
