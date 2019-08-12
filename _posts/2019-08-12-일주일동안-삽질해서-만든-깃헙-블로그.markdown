@@ -1,13 +1,11 @@
 ---
-
-title: ":love: 일주일동안 삽질해서 만든 깃헙 블로그"
+title: " 일주일동안 삽질해서 만든 깃헙 블로그"
 layout: post
 date: 2019-08-12
 tag: github
 image: /assets/images/me.jpg
 category: blog
 author: Ra-Eh
-
 ---
 
 <h1> 삽질 </h1>
@@ -18,4 +16,3 @@ author: Ra-Eh
 2.  다른 하나를 꾸준히 읽지 않고, 계속 다른 페이지를 들어간다.
 3.  최대한 많은 지식을 한번에 얻을려고 한다.
 
-ㄴ
