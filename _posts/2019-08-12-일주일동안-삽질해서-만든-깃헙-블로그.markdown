@@ -25,8 +25,9 @@ description: Markdown summary with different options
 접근성을 높일수 있도록 블로그를 만들면서 준비하고 싶었다.
 
 ### 깃헙블로그로 공유하고 싶은 것들
-
-[TOC]
+1. 삽질장인의 오류
+2. 깃헙 블로그 만들기
+3. 자동화 업무 툴 만들기 
 
 
 #### 1. 삽질장인의 오류
