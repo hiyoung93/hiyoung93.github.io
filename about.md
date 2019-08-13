@@ -13,11 +13,11 @@ layout: page
 </p>
 
 <p>
-아마존에서 **셀러** 로 활동중이고,
-**python** 으로 뭐든 만드는 것을 좋아한다.
-가장 최근에 이 **기술 블로그**,
+아마존에서 **셀러** 로 활동중이고,<br>
+**python** 으로 뭐든 만드는 것을 좋아한다.<br>
+가장 최근에 이 **기술 블로그**,<br>
 아직 강점은 없지만 뭐든 해보면서 만들고 싶은것들을 찾아볼 것<br>
-(&#xf004;)
+
 </p>
 
 <h2>Skills</h2>
@@ -34,4 +34,6 @@ layout: page
 <ul>
 	<li><a href="https://github.com/hiyoung93/wedcrawling"> only title crawling instagram </a></li>
 	<li><a href="https://github.com/hiyoung93/pygame_shooting">pygame_shooting</a></li>
+	<li><a href="https://github.com/hiyoung93/hiyoung93.github.io">github blog</a></li>
+
 </ul>
