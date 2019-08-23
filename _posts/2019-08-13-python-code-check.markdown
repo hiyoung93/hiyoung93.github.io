@@ -9,7 +9,7 @@ author: Ra-Eh
 description: Markdown summary with different options
 ---
 
-'''python
+{% highlight python %}
 좋은 코드 사용하기
 import pygame
 import sys
@@ -21,4 +21,4 @@ padHeight = 640 # 게임 화면의 세로
 rockImage = ['그림1.png','그림2.png','그림3.png','그림4.png','그림5.png',\
              '그림6.png','그림7.png','그림8.png','그림9.png','그림10.png']
 
-'''
+{% endhighlight %}
